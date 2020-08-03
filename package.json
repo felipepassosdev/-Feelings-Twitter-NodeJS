@@ -1,0 +1,21 @@
+{
+  "name": "feelings-twitter-nodejs",
+  "version": "1.0.0",
+  "description": "Para rodar o arquivo index.js  execute os seguintes passos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipepassosdev/Feelings-Twitter-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipepassosdev/Feelings-Twitter-NodeJS/issues"
+  },
+  "homepage": "https://github.com/felipepassosdev/Feelings-Twitter-NodeJS#readme"
+}
